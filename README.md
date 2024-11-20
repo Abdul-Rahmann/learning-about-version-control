@@ -1,1 +1,2 @@
-# learning-about-version-control
+# Learning about Version COntrol
+Author: Samuel Adetsi
